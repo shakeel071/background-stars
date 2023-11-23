@@ -1,7 +1,7 @@
-for(let i=1;i<=500;i++){
+for(let i=1;i<=100;i++){
     let stars=document.createElement('div');
     stars.classList.add('star');
-    let size=Math.random()*15;
+    let size=Math.random()*20;
     stars.style.fontSize=10+size+'px';
     stars.style.left=Math.random()* +innerWidth+'px';
     stars.style.top=Math.random()* +innerHeight+'px';
