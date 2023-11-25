@@ -23,4 +23,9 @@
     0 0 20px #0f0,
     0 0 50px #0f0;
 }
+.sec footer{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+}
 
