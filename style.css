@@ -26,7 +26,9 @@
 .sec footer{
     position: absolute;
     right: 10px;
-    color: #fff;
+    background: linear-gradient(to right,#00d9ff,#ee00ff);
+    -webkit-background-clip: text;
+    color: transparent;
     font-family: cursive;
 }
 
